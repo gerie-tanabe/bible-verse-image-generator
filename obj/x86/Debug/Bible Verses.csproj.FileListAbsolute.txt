@@ -1,0 +1,30 @@
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\bin\Debug\Bible Verses.exe
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\bin\Debug\Bible Verses.pdb
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible_Verses.Properties.Resources.resources
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible Verses.csproj.GenerateResource.Cache
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible Verses.exe
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible Verses.pdb
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible Verses.csprojResolveAssemblyReference.cache
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\bin\Debug\Bible Verses.exe.config
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible_Verses.FormMain.resources
+C:\Users\gerie\Desktop\Bible Verses\Bible Verses\obj\x86\Debug\Bible_Verses.FormSearchResult.resources
+C:\Users\iceman\Desktop\Bible Verses\bin\Debug\Bible Verses.exe.config
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible Verses.exe
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible Verses.pdb
+C:\Users\iceman\Desktop\Bible Verses\bin\Debug\Bible Verses.exe
+C:\Users\iceman\Desktop\Bible Verses\bin\Debug\Bible Verses.pdb
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible Verses.csprojResolveAssemblyReference.cache
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible_Verses.FormMain.resources
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible_Verses.FormSearchResult.resources
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible_Verses.Properties.Resources.resources
+C:\Users\iceman\Desktop\Bible Verses\obj\x86\Debug\Bible Verses.csproj.GenerateResource.Cache
+C:\Users\iceman\Desktop\Bible Verse Image Generator\bin\Debug\Bible Verses.exe.config
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible Verses.exe
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible Verses.pdb
+C:\Users\iceman\Desktop\Bible Verse Image Generator\bin\Debug\Bible Verses.exe
+C:\Users\iceman\Desktop\Bible Verse Image Generator\bin\Debug\Bible Verses.pdb
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible Verses.csprojResolveAssemblyReference.cache
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible_Verses.FormMain.resources
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible_Verses.FormSearchResult.resources
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible_Verses.Properties.Resources.resources
+C:\Users\iceman\Desktop\Bible Verse Image Generator\obj\x86\Debug\Bible Verses.csproj.GenerateResource.Cache
